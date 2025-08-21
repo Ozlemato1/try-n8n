@@ -30,6 +30,3 @@ services:
           name: n8nDB
           property: password
 
-databases:
-  - name: n8nDB
-    plan: starter
